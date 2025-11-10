@@ -1,0 +1,31 @@
+name: Experiment Run
+description: Log a Mode A/B run (frequency/depth/mix/results)
+title: "[RUN] YYYY-MM-DD – Mode A/B @ F Hz"
+labels: [experiment]
+body:
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Mode
+      options: ["A (acoustic)", "B (magnetic)"]
+  - type: input
+    id: depth
+    attributes: {label: Pour depth (mm), placeholder: "6"}
+  - type: input
+    id: frequency
+    attributes: {label: Frequency (Hz), placeholder: "120"}
+  - type: input
+    id: amplitude
+    attributes: {label: Amp setting / SPL, placeholder: "0.25 / 72 dB"}
+  - type: textarea
+    id: mix
+    attributes: {label: Mix notes, placeholder: "Ultracal30, 15% Fe3O4, 0.3% PCE, 0.08% xanthan"}
+  - type: input
+    id: gel
+    attributes: {label: Time to gel (min), placeholder: "8"}
+  - type: textarea
+    id: result
+    attributes: {label: Result, placeholder: "Clean 9–11 mm cells, slight veining at edges"}
+  - type: textarea
+    id: photos
+    attributes: {label: Photo/Video links, placeholder: "experiments/results_gallery/2025-11-10-run1.jpg"}

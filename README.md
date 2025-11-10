@@ -10,6 +10,8 @@
 
 Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement slurries (aka “sonic ferrocrete”).
 
+**In plain language:** we’re playing with wet plaster and concrete mixes, shaking them with music-like tones, and nudging the iron particles inside with magnets. When the mix sets, you get ripples, veining, and textures that look like frozen sound waves or marble—no lab coat required.
+
 ## What is this?
 
 We embed magnetic particles (black iron oxide) in a fresh slurry and use **sound (standing waves)** and/or **magnetic fields** to organize surface topology and internal veining **before** the mix sets.

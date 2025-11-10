@@ -1,4 +1,5 @@
 # Sonic Ferrocrete
+### Sculpting cement with sound, magnetism, and open hardware
 [![Build OpenSCAD](https://github.com/samjhill/sonic-ferrocrete/actions/workflows/openscad.yml/badge.svg)](../../actions/workflows/openscad.yml)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0](https://img.shields.io/badge/Media-CC_BY_4.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Sonic Ferrocrete
+authors:
+  - family-names: Hill
+    given-names: Sam
+repository-code: https://github.com/samjhill/sonic-ferrocrete
+license: MIT
+message: "If you use this project, please cite it."

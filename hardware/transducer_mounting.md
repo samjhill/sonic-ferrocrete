@@ -6,7 +6,7 @@ A repeatable clamp-up between the TT25 (or future BST-1) and the aluminum drive 
 
 - 3M VHB LSE 110WF tape (25 mm wide) **or** thin layer of Loctite Clover coupling compound
 - 1 mm neoprene or sorbothane pad (cut to 60 mm disc) for isolation feet
-- Printed or laser-cut collar (see `hardware/sonic_ferrocrete_tray.scad` module `mount_ring()`), or four 20 mm corner clamps
+- Laser-cut/printed collar or four 20 mm corner clamps
 - M5 × 35 mm socket cap screws (x4) with wing nuts or thumb nuts
 - M5 washers (x8) to protect plate surface
 - Optional: 90° toggle clamps (short reach) if you prefer a quick-release mechanism

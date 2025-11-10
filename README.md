@@ -6,7 +6,7 @@
 
 ![Sonic ferrocrete tray and magnet sled assembly](images/tray-cutaway.png)
 
-> **Quick start (5 min):** Print the tray in `hardware/`, then run **Mode A**: pour 5–8 mm Ultracal + Fe3O4 mix, sweep 70–200 Hz until steady cells appear, hold 6–10 min, cure, demold.
+> **Quick start (5 min):** Set up the tactile transducer under your tray, pour 5–8 mm Ultracal + Fe3O4 mix, sweep 70–200 Hz until steady cells appear, hold 6–10 min, cure, demold.
 
 **Docs:** See `experiments/modeA_acoustic_patterning.md` and `experiments/modeB_magnetic_veining.md`  
 **Contributing:** See `CONTRIBUTING.md` • **Citation:** `CITATION.cff`
@@ -25,7 +25,7 @@ Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement 
 - **What:** Open hardware + material recipes for sculpting cementitious mixes with sound, magnets, and electromagnets.
 - **Who:** Makers, architects, materials researchers, and curious experimenters who want repeatable bench protocols.
 - **Why:** Freeze standing waves and magnetic veining into panels to explore new building skins, art pieces, and responsive surfaces.
-- **How:** Print or CNC the tray, follow Mode A/B protocols, log results, and share back via the provided issue templates.
+- **How:** Assemble the bench (transducer, tray, magnet sled), follow Mode A/B protocols, log results, and share back via the provided issue templates.
 
 ## Table of Contents
 
@@ -52,13 +52,13 @@ We embed magnetic particles (black iron oxide) in a fresh slurry and use **sound
 
 ## Quick start
 
-1. Print or fabricate the tray in `hardware/`.
+1. Assemble the tray and plate stack using `hardware/transducer_mounting.md`.
 2. Follow `experiments/modeA_acoustic_patterning.md` (sound) and `modeB_magnetic_veining.md` (magnets).
 3. Spin up `experiments/run_log_template.csv`, open an [Experiment Run issue](https://github.com/samjhill/sonic-ferrocrete/issues/new?template=experiment_run.yml), and capture photos per `experiments/photography_guide.md`.
 
 ## Repo layout
 
-- `hardware/` — OpenSCAD tray, magnet-sled notes, BOM
+- `hardware/` — Magnet sled notes, BOM, mounting documentation for the bench hardware
 - `experiments/` — lab guides (Mode A/B), photo tips
 - `data/` — CSV templates for frequency/depth/viscosity vs. pattern results
 - `simulation/` — thin-film heightfield notebook for rapid concept tests (`thinfilm_heightfield.ipynb`, open in Jupyter/VS Code; Binder link planned)
@@ -75,7 +75,7 @@ We embed magnetic particles (black iron oxide) in a fresh slurry and use **sound
 ## Potential Applications
 
 ### Cymatic Architectural Facade
-Frozen ripples create a sound-shaped facade module for large-scale installations.
+ Frozen ripples create a sound-shaped facade module for large-scale installations.
 ![Cymatic architectural facade concept](images/acoustic-panel.png)
 *Concept render: acoustic standing waves cast into facade panels.*
 

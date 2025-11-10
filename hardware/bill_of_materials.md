@@ -25,6 +25,13 @@
 - Printed collar or corner clamps + M5 hardware for transducer mounting
 - Neoprene/sorbothane pads for isolation feet
 
+## Instrumentation
+
+- LIS3DH/ADXL335 accelerometer breakout (plate vibration logging)
+- ESP32 DevKit or Arduino Nano + USB cable (sensor interface)
+- MicroSD logger or laptop capture script
+- Kapton tape or VHB tabs for sensor mounting/strain relief
+
 ## Lab & Safety
 
 - Disposable LDPE transfer pipettes (3–5 mL pack)

@@ -20,5 +20,9 @@
 | Amazon Basics 3.5 mm to RCA cable, 4 ft | Connect tone source to amplifier | $7.55 | Today (5–10 PM) |
 | 50-pack 3 mL LDPE transfer pipettes | Spot-dose water, admixtures, or pigments | $8.99 | — |
 | Loctite Clover grinding & lapping compound, 2 oz | Thin coupling layer between puck and plate | — | — |
+| Adafruit LIS3DH accelerometer breakout | Plate vibration sensing (I²C) | $14.95 | — |
+| ESP32 DevKitC (USB-C) | Streams accelerometer data | $9.99 | — |
+| MicroSD logger breakout + 32 GB card | Optional onboard data storage | $12.99 | — |
+| Kapton tape roll (1/2\") | Strain relief & insulation for sensor leads | $6.49 | — |
 
 \*Prices captured November 10, 2025. Check current listings before purchase.

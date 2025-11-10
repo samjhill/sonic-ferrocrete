@@ -1,0 +1,2 @@
+run_id,date,depth_mm,frequency_hz,amp_setting,pattern_wavelength_mm,notes,photo_path
+1,2025-11-10,6,120,0.25,?, "first test","experiments/results/..."

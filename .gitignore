@@ -1,0 +1,6 @@
+# basics
+.DS_Store
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
+data/sample_results/*

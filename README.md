@@ -13,7 +13,7 @@
 
 Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement slurries (aka “sonic ferrocrete”).
 
-**In plain language:** we’re playing with wet plaster and concrete mixes, shaking them with music-like tones, and nudging the iron particles inside with magnets. When the mix sets, you get ripples, veining, and textures that look like frozen sound waves or marble—no lab coat required. If this works at scale, it’s a proof that you can *shape cement with waves*, hinting at future building elements cast with built-in acoustics, drainage, or ornament baked in from the first pour.
+**In plain language:** we’re playing with wet plaster and concrete mixes, shaking them with music-like tones, and nudging the iron particles inside with magnets. When the mix sets, you get ripples, veining, and textures that look like frozen sound waves or marble. If this works at scale, it’s a proof that you can *shape cement with waves*, hinting at future building elements cast with built-in acoustics, drainage, or ornament baked in from the first pour.
 
 ## Bench Snapshot
 

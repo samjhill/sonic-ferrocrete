@@ -21,6 +21,7 @@
 - PETG/ABS for tray or machine from acrylic/aluminum
 - Silicone sealant (thin bead at tray corners)
 - 3M VHB LSE tape or epoxy for temporary transducer bonding
+- Thin coupling compound (e.g., Loctite Clover 2 oz) for shaker-to-plate interface
 
 ## Lab & Safety
 

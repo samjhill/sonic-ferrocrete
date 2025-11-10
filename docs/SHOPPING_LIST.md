@@ -19,5 +19,6 @@
 | BOMATA 0.1 g precision scale (5 kg) | Weigh mixes and admixtures | $33.88 | Today (5–10 PM) |
 | Amazon Basics 3.5 mm to RCA cable, 4 ft | Connect tone source to amplifier | $7.55 | Today (5–10 PM) |
 | 50-pack 3 mL LDPE transfer pipettes | Spot-dose water, admixtures, or pigments | $8.99 | — |
+| Loctite Clover grinding & lapping compound, 2 oz | Thin coupling layer between puck and plate | — | — |
 
 \*Prices captured November 10, 2025. Check current listings before purchase.

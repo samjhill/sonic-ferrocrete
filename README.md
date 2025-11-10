@@ -66,3 +66,8 @@ Porous, patterned surfaces encourage moss and lichen colonization while managing
 ### Pavilion Formed by Sound
 Large-scale intervention shaped by resonance patterns for immersive environments.
 ![Sound-shaped pavilion concept](images/sound-formed-sculpture.png)
+
+## Bench Snapshot
+
+![Experiment in progress](images/experiment-in-progress.png)
+*Silicone mold riding on a tactile transducer during a live tone sweep.*

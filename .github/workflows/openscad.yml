@@ -1,0 +1,33 @@
+name: Build OpenSCAD
+
+on:
+  push:
+    paths: ["hardware/*.scad"]
+  pull_request:
+    paths: ["hardware/*.scad"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: ghcr.io/openscad/openscad:latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Export tray STL
+        run: |
+          mkdir -p build
+          # Export tray
+          sed -i 's#// tray_assembly();#tray_assembly();#' hardware/sonic_ferrocrete_tray.scad
+          /usr/bin/openscad -o build/tray.stl hardware/sonic_ferrocrete_tray.scad
+
+      - name: Export magnet sled STL
+        run: |
+          git checkout -- hardware/sonic_ferrocrete_tray.scad
+          sed -i 's#// magnet_sled();#magnet_sled();#' hardware/sonic_ferrocrete_tray.scad
+          /usr/bin/openscad -o build/magnet_sled.stl hardware/sonic_ferrocrete_tray.scad
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: stl-artifacts
+          path: build/*.stl

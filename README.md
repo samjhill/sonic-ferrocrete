@@ -1,4 +1,5 @@
 # Sonic Ferrocrete
+[![Build OpenSCAD](https://github.com/samjhill/sonic-ferrocrete/actions/workflows/openscad.yml/badge.svg)](../../actions/workflows/openscad.yml)
 
 > **Quick start (5 min):** Print the tray in `hardware/`, then run **Mode A**: pour 5–8 mm Ultracal + Fe3O4 mix, sweep 70–200 Hz until steady cells appear, hold 6–10 min, cure, demold.
 

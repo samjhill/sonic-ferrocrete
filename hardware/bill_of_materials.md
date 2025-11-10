@@ -22,6 +22,8 @@
 - Silicone sealant (thin bead at tray corners)
 - 3M VHB LSE tape or epoxy for temporary transducer bonding
 - Thin coupling compound (e.g., Loctite Clover 2 oz) for shaker-to-plate interface
+- Printed collar or corner clamps + M5 hardware for transducer mounting
+- Neoprene/sorbothane pads for isolation feet
 
 ## Lab & Safety
 

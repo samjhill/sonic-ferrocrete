@@ -14,6 +14,11 @@ Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement 
 
 **In plain language:** we’re playing with wet plaster and concrete mixes, shaking them with music-like tones, and nudging the iron particles inside with magnets. When the mix sets, you get ripples, veining, and textures that look like frozen sound waves or marble—no lab coat required. If this works at scale, it’s a proof that you can *shape cement with waves*, hinting at future building elements cast with built-in acoustics, drainage, or ornament baked in from the first pour.
 
+## Bench Snapshot
+
+![Experiment in progress](images/experiment-in-progress.png)
+*Silicone mold riding on a tactile transducer during a live tone sweep.*
+
 ## TL;DR
 
 - **What:** Open hardware + material recipes for sculpting cementitious mixes with sound, magnets, and electromagnets.
@@ -23,13 +28,13 @@ Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement 
 
 ## Table of Contents
 
+- [Bench Snapshot](#bench-snapshot)
 - [What is this?](#what-is-this)
 - [Getting Ready](#getting-ready)
 - [Quick start](#quick-start)
 - [Repo layout](#repo-layout)
 - [First Milestone](#first-milestone)
 - [Potential Applications](#potential-applications)
-- [Bench Snapshot](#bench-snapshot)
 - [Safety](#safety)
 - [Licensing](#licensing)
 - [Contributing & Community](#contributing--community)
@@ -92,11 +97,6 @@ Porous, patterned surfaces encourage moss and lichen colonization while managing
 Large-scale intervention shaped by resonance patterns for immersive environments.
 ![Sound-shaped pavilion concept](images/sound-formed-sculpture.png)
 *Concept render: pavilion surfaces derived from sonic interference.*
-
-## Bench Snapshot
-
-![Experiment in progress](images/experiment-in-progress.png)
-*Silicone mold riding on a tactile transducer during a live tone sweep.*
 
 ## Safety
 

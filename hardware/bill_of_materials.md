@@ -20,3 +20,9 @@
 
 - PETG/ABS for tray or machine from acrylic/aluminum
 - Silicone sealant (thin bead at tray corners)
+- 3M VHB LSE tape or epoxy for temporary transducer bonding
+
+## Lab & Safety
+
+- Disposable LDPE transfer pipettes (3–5 mL pack)
+- Nitrile gloves, respirator, and safety glasses/ear protection for mixing

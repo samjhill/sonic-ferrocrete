@@ -44,3 +44,25 @@ Hearing protection, dust mask, magnet pinch safety. See experiment docs.
 - [ ] Mode A: 3 freqs × 2 depths → photos + CSV.
 - [ ] Mode B: straight-line + spiral sled → photos.
 - [ ] Short video; share repo link.
+
+## Potential Applications
+
+### Cymatic Architectural Facade
+Frozen ripples create a sound-shaped facade module for large-scale installations.
+![Cymatic architectural facade concept](images/acoustic-panel.png)
+
+### Magnetically Veined Plaster Panel
+Magnetite veining suggests marble-like surfaces guided by field lines.
+![Magnetically veined plaster concept](images/false-marble.png)
+
+### Sound-formed Sculpture
+Mid-resonance waves solidify into sculptural geometry—dynamic motion caught in time.
+![Sound-formed sculpture concept](images/in-progress.png)
+
+### Bio-reactive Concrete Facade
+Porous, patterned surfaces encourage moss and lichen colonization while managing moisture.
+![Bio-reactive concrete facade concept](images/porous-lichen.png)
+
+### Pavilion Formed by Sound
+Large-scale intervention shaped by resonance patterns for immersive environments.
+![Sound-shaped pavilion concept](images/sound-formed-sculpture.png)

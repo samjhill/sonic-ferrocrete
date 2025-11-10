@@ -1,5 +1,10 @@
 # Sonic Ferrocrete
 
+> **Quick start (5 min):** Print the tray in `hardware/`, then run **Mode A**: pour 5–8 mm Ultracal + Fe3O4 mix, sweep 70–200 Hz until steady cells appear, hold 6–10 min, cure, demold.
+
+**Docs:** See `experiments/modeA_acoustic_patterning.md` and `experiments/modeB_magnetic_veining.md`  
+**Contributing:** See `CONTRIBUTING.md` • **Citation:** `CITATION.cff`
+
 Open, reproducible experiments in **magneto-acoustic forming** of gypsum/cement slurries (aka “sonic ferrocrete”).
 
 ## What is this?
@@ -28,3 +33,11 @@ We embed magnetic particles (black iron oxide) in a fresh slurry and use **sound
 ## Safety
 
 Hearing protection, dust mask, magnet pinch safety. See experiment docs.
+
+## First Milestone
+
+- [ ] Print 120×120 tray; seal corners.
+- [ ] Water resonance dry-run (Hz vs. visible cell count).
+- [ ] Mode A: 3 freqs × 2 depths → photos + CSV.
+- [ ] Mode B: straight-line + spiral sled → photos.
+- [ ] Short video; share repo link.

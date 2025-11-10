@@ -31,6 +31,7 @@
 - ESP32 DevKit or Arduino Nano + USB cable (sensor interface)
 - MicroSD logger or laptop capture script
 - Kapton tape or VHB tabs for sensor mounting/strain relief
+- 120 mm dual-fan module (e.g., KEYFANCLUB Dual 120 mm) for cooling electronics during longer runs
 
 ## Lab & Safety
 
